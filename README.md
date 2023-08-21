@@ -5,5 +5,5 @@ This system offers an efficient and organized approach to handling various aspec
 
 # How to Run
 Open the Command Prompt and run the following cmds
-javac medicine_Main.java
-javac medicine_Main
+1. javac medicine_Main.java   
+2. javac medicine_Main
